@@ -117,3 +117,4 @@
 04-Feb-2017 15:53:43.491 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
 04-Feb-2017 15:53:43.491 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
 04-Feb-2017 15:53:43.491 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 584 ms
+04-Feb-2017 16:13:04.610 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []

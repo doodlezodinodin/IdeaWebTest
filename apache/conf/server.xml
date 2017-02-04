@@ -148,7 +148,7 @@
       <Host name="localhost"  appBase="webapps"
             unpackWARs="true" autoDeploy="true">
 
-        <Contest path="" docBase="C:\Users\alex\IdeaProjects\Test\web"/>
+        <Context path="" docBase="C:\Users\alex\IdeaProjects\Test\web"/>
 
         <!-- SingleSignOn valve, share authentication between web applications
              Documentation at: /docs/config/valve.html -->
